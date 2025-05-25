@@ -5,7 +5,7 @@ This is a Tkinter-based GUI tool to compute FIRST and FOLLOW sets and generate L
 ## How to Run
 1. Install Python 3.x
 2. Clone this repo
-3. Run `python main.py`
+3. Run `python gui.py`
 
 ## Features
 - FIRST and FOLLOW set calculation
